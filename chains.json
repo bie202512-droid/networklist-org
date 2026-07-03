@@ -15333,12 +15333,12 @@
     ],
     "icon": "bie",
     "app_resource": {
-      "ic_chain_select": "https://app.bie.ai/logo/bie-token.png",
+      "ic_chain_select": "https://ipfs.io/ipfs/bafkreieqvjhjcwwz3m4r6hbiphst5zodbtou45gwkqlhh7uoh3vl5tkfem",
       "ic_chain_unselect": "https://app.bie.ai/logo/bie-token.png",
       "ic_chain_unselect_dark": "https://app.bie.ai/logo/bie-token.png",
       "color_chain_bg": "0xF5B800",
       "color_chain_text": "0xFFFFFF",
-      "ic_home_logo": "https://app.bie.ai/logo/bie-token.png"
+      "ic_home_logo": "https://ipfs.io/ipfs/bafkreieqvjhjcwwz3m4r6hbiphst5zodbtou45gwkqlhh7uoh3vl5tkfem"
     }
   },
   {
